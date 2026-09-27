@@ -1,4 +1,4 @@
-name: Check badges in README.md
+name: Check badges in README.mdname: Check badges in README.md
 
 on:
   push:
